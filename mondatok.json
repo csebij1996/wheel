@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "tema": "Tudod hova menjél?",
+        "megfejtes": "Kukutyinba zabot hegyezni"
+    },
+    {
+        "id": 2,
+        "tema": "Kicsit már puhány",
+        "megfejtes": "aputest"
+    },
+    {
+        "id": 3,
+        "tema": "Halleluja!",
+        "megfejtes": "Megjött a fizetésem"
+    },
+    {
+        "id": 4,
+        "tema": "Mit adhatok?",
+        "megfejtes": "szia uram"
+    },
+    {
+        "id": 5,
+        "tema": "Nehogy már!",
+        "megfejtes": "A nyúl vigye a puskát"
+    },
+    {
+        "id": 6,
+        "tema": "Csing-ling-ling",
+        "megfejtes": "Éj mélyből főlzengő száncsengő"
+    },
+    {
+        "id": 7,
+        "tema": "Dalban dícsér",
+        "megfejtes": "Hosszú fekete haj sukár ez a csaj"
+    },
+    {
+        "id": 8,
+        "tema": "Gyógyfőzet",
+        "megfejtes": "Kamillatea"
+    },
+    {
+        "id": 9,
+        "tema": "A mutogatós bácsi szerszáma",
+        "megfejtes": "Karmesteri pálca"
+    },
+    {
+        "id": 10,
+        "tema": "Ideje lezárni",
+        "megfejtes": "elvarratlan szál"
+    },
+    {
+        "id": 11,
+        "tema": "van bennem egy nagy adag",
+        "megfejtes": "egészséges kíváncsiság"
+    },
+    {
+        "id": 12,
+        "tema": "A dzsungel törvénye",
+        "megfejtes": "egy vérből valók vagyunk"
+    },
+    {
+        "id": 13,
+        "tema": "Mekk Elek",
+        "megfejtes": "Kétbalkezes ezermester"
+    },
+    {
+        "id": 14,
+        "tema": "Nagyot szól",
+        "megfejtes": "kirobbanó siker"
+    },
+    {
+        "id": 15,
+        "tema": "Van aki szereti!",
+        "megfejtes": "Kapros tökfőzelék"
+    },
+    {
+        "id": 16,
+        "tema": "Energia központ",
+        "megfejtes": "Köldökcsakra"
+    },
+    {
+        "id": 17,
+        "tema": "Átkelő a pusztában",
+        "megfejtes": "Kilenclyukú híd"
+    },
+    {
+        "id": 18,
+        "tema": "Láblenyomat",
+        "megfejtes": "Cicatappancs"
+    },
+    {
+        "id": 19,
+        "tema": "A szádban hat",
+        "megfejtes": "cserszömörce"
+    },
+    {
+        "id": 20,
+        "tema": "Spencer",
+        "megfejtes": "Akit búldózernek hívtak"
+    }
+]

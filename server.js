@@ -13,6 +13,12 @@ app.get('/adatok', (req, res) => {
     })
 })
 
+app.get('/mondatok', (req, res) => {
+    fs.readFile('./mondatok.json', (err, file) => {
+        res.send(file);
+    })    
+})
+
 
 app.listen(6001, () => {
     console.log('sikeres csatlakozás!');
